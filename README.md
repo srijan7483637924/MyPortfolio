@@ -58,7 +58,7 @@ You can fork this repo or download the code and edit `index.html`, `style.css`, 
 
 **Srijan Kumar**  
 Final year B.E. student | CSE | Interested in Web Development & AI  
-[LinkedIn](www.linkedin.com/in/srijana-kumara-013b2a279) • [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/srijana-kumara-013b2a279) • [GitHub](https://github.com/srijan7483637924)
 
 ---
 
